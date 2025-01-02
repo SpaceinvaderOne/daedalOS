@@ -1,6 +1,16 @@
 ## 🌌 **daedalOS** 🌌
-
 ## _Desktop environment in the browser_
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+This is a fork of [Dustin Brett's daedalOS](https://github.com/DustinBrett/daedalOS).
+This fork is maintained to provide a prebuilt Docker image for use with Unraid and other Docker environments.  
+
+**Please do not open pull requests or issues here.**  
+All contributions should go to the [upstream repository](https://github.com/DustinBrett/daedalOS).
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 [![Feature Overview](https://img.youtube.com/vi/RRLq3T0Surs/mqdefault.jpg)](http://www.youtube.com/watch?v=RRLq3T0Surs)
 
